@@ -1,11 +1,11 @@
 {
-  "name": "sass-project",
+  "name": "sass-project-dashboard",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/sass-project/",
+    "build": "vite build --base=/sass-project-dashboard/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },
